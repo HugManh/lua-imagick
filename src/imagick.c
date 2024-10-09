@@ -3,6 +3,7 @@
 #include <lua.h>
 #include <lauxlib.h>
 #include <lualib.h>
+#include <errno.h>
 
 #include <wand/magick_wand.h>
 
